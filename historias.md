@@ -1,6 +1,7 @@
 # HISTÓRIAS E MÚSICAS
 
- **Fortunate Son**
+  
+ - **Fortunate Son**
 	- *História da música:*
 "Fortunate Son" é uma música da banda de rock americana Creedence Clearwater Revival, lançada em 1969. A música critica a Guerra do Vietnã e a forma como a guerra foi conduzida, especialmente a desigualdade na forma como os jovens americanos foram enviados para o combate.
 A letra da música aponta o dedo para aqueles que são considerados "filhos de sorte", ou seja, os jovens ricos e bem-conectados que são poupados do serviço militar na Guerra do Vietnã devido a suas influências e recursos. A música argumenta que esta desigualdade é injusta e que aqueles que não têm recursos ou conexões são os que realmente estão servindo e morrendo na guerra.
